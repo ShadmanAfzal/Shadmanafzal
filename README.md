@@ -4,10 +4,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shadmanafzal)](https://github.com/shadmanafzal/github-readme-stats)
 
-
-[![Website](https://img.shields.io/website?label=shadmanafzal&style=for-the-badge&url=https://shadmanafzal.github.io)](https://shadmanafzal.github.io)
-[![Twitter Follow](https://img.shields.io/twitter/follow/JustinKhan123?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https://mobile.twitter.com/JustinKhan123&screen_name=JustinKhan123)
-
 - 🔭 I’m currently working on Aptitude and Reasoning.
 - 🌱 I’m currently learning Node JS.
 - 💬 Ask me anything related to FLutter or Django.
