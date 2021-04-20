@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on Aptitude and Reasoning.
 - 🌱 I’m currently learning Node JS.
-- 💬 Ask me about Coding Stuffs.
+- 💬 Ask me anything related to FLutter or Django.
 - 📫 How to reach me:  Twitter: [@JustinKhan123](https://twitter.com/JustinKhan123) Linkedin: [@shadman-nawab](https://www.linkedin.com/in/shadman-afzal/)
 - ⚡ Fun fact: The first virus was created in 1983.
 
