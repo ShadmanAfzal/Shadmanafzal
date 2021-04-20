@@ -1,4 +1,4 @@
-### <h2> Hi there, I am Shadman Afzal. 👋 </h2>
+### <h2> Hello there, I am Shadman Afzal. 👋 </h2>
 
 <img align="center" alt="Shadman stack's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Shadmanafzal&show_icons=true" />
 
