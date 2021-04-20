@@ -2,7 +2,7 @@
 
 <img align="center" alt="Shadman stack's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Shadmanafzal&show_icons=true" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shadmanafzal)](https://github.com/shadmanafzal/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shadmanafzal&layout=compact)](https://github.com/shadmanafzal/github-readme-stats)
 
 - 🔭 I’m currently working on Aptitude and Reasoning.
 - 🌱 I’m currently learning Node JS.
