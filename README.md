@@ -1,12 +1,12 @@
 ### <h2> Hi there, I am Shadman Afzal. 👋 </h2>
 
-<img align="center" alt="Shadman stack's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Shadmanafzal786&show_icons=true&theme=dark" />
+<img align="center" alt="Shadman stack's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Shadmanafzal&show_icons=true&theme=dark" />
 
-[![Website](https://img.shields.io/website?label=Shadmanafzal786&style=for-the-badge&url=https://shadmanafzal786.github.io/Portfolio/)](https://shadmanafzal786.github.io/Portfolio/)
+[![Website](https://img.shields.io/website?label=shadmanafzal&style=for-the-badge&url=https://shadmanafzal.github.io)](https://shadmanafzal.github.io)
 [![Twitter Follow](https://img.shields.io/twitter/follow/JustinKhan123?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https://mobile.twitter.com/JustinKhan123&screen_name=JustinKhan123)
 
-- 🔭 I’m currently working on Flutter Project.
-- 🌱 I’m currently learning Django and REST API.
+- 🔭 I’m currently working on Aptitude and Reasoning.
+- 🌱 I’m currently learning Node JS.
 - 💬 Ask me about Coding Stuffs.
 - 📫 How to reach me:  Twitter: [@JustinKhan123](https://twitter.com/JustinKhan123) Linkedin: [@shadman-nawab](https://www.linkedin.com/in/shadman-afzal/)
 - ⚡ Fun fact: The first virus was created in 1983.
