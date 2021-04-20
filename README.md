@@ -1,6 +1,9 @@
 ### <h2> Hi there, I am Shadman Afzal. 👋 </h2>
 
-<img align="center" alt="Shadman stack's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Shadmanafzal&show_icons=true&theme=dark" />
+<img align="center" alt="Shadman stack's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Shadmanafzal&show_icons=true" />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shadmanafzal)](https://github.com/shadmanafzal/github-readme-stats)
+
 
 [![Website](https://img.shields.io/website?label=shadmanafzal&style=for-the-badge&url=https://shadmanafzal.github.io)](https://shadmanafzal.github.io)
 [![Twitter Follow](https://img.shields.io/twitter/follow/JustinKhan123?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https://mobile.twitter.com/JustinKhan123&screen_name=JustinKhan123)
@@ -10,6 +13,7 @@
 - 💬 Ask me anything related to FLutter or Django.
 - 📫 How to reach me:  Twitter: [@JustinKhan123](https://twitter.com/JustinKhan123) Linkedin: [@shadman-nawab](https://www.linkedin.com/in/shadman-afzal/)
 - ⚡ Fun fact: The first virus was created in 1983.
+
 
 ### Currently Listening 🎧
 
