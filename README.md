@@ -5,8 +5,8 @@
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shadmanafzal&layout=compact)](https://github.com/shadmanafzal/github-readme-stats) -->
 
 - 🔭 I’m currently working on Aptitude and Reasoning.
-- 🌱 I’m currently learning Node JS.
-- 💬 Ask me anything related to FLutter or Django.
+- 🌱 I’m currently learning React-Native.
+- 💬 Ask me anything related to Flutter or Django.
 - 📫 How to reach me:  Twitter: [@JustinKhan123](https://twitter.com/JustinKhan123) Linkedin: [@shadman-nawab](https://www.linkedin.com/in/shadman-afzal/)
 - ⚡ Fun fact: The first virus was created in 1983.
 
