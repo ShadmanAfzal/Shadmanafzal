@@ -1,4 +1,5 @@
-### <h2> Hello there, I am Shadman Afzal. 👋 </h2>
+Hello there, I am Shadman Afzal. ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+===========================================================================================================================================
 #### Full-stack Software Engineer
 
 <!-- <img align="center" alt="Shadman stack's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Shadmanafzal&show_icons=true" /> -->
