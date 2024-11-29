@@ -180,76 +180,29 @@ Hello there, I am Shadman Afzal. ![](https://user-images.githubusercontent.com/1
 
 ### Socials
 
-<p align="left">
-  <a
-    href="https://www.github.com/ShadmanAfzal"
-    target="_blank"
-    rel="noreferrer"
-  >
-    <picture>
-      <source
-        media="(prefers-color-scheme: dark)"
-        srcset="
-          https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg
-        "
-      />
-      <source
-        media="(prefers-color-scheme: light)"
-        srcset="
-          https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg
-        "
-      />
-      <img
-        src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg"
-        width="32"
-        height="32"
-      />
-    </picture>
+<div align="left">
+  <a href="https://www.linkedin.com/in/shadman-afzal">
+    <img
+      src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg"
+      width="52"
+      height="40"
+      alt="linkedin logo"
+    />
   </a>
-  <a
-    href="https://www.linkedin.com/in/shadman-afzal"
-    target="_blank"
-    rel="noreferrer"
-  >
-    <picture>
-      <source
-        media="(prefers-color-scheme: dark)"
-        srcset="
-          https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg
-        "
-      />
-      <source
-        media="(prefers-color-scheme: light)"
-        srcset="
-          https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg
-        "
-      />
-      <img
-        src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg"
-        width="32"
-        height="32"
-      />
-    </picture>
+  <a href="mailto:shadman.afzal.7@gmail.com">
+    <img
+      src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg"
+      width="52"
+      height="40"
+      alt="gmail logo"
+    />
   </a>
-  <a href="https://x.com/JustinKhan123" target="_blank" rel="noreferrer">
-    <picture>
-      <source
-        media="(prefers-color-scheme: dark)"
-        srcset="
-          https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg
-        "
-      />
-      <source
-        media="(prefers-color-scheme: light)"
-        srcset="
-          https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg
-        "
-      />
-      <img
-        src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg"
-        width="32"
-        height="32"
-      />
-    </picture>
+  <a href="https://x.com/JustinKhan123">
+    <img
+      src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg"
+      width="52"
+      height="40"
+      alt="twitter logo"
+    />
   </a>
-</p>
+</div>
