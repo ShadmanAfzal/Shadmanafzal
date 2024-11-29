@@ -181,7 +181,7 @@ Hello there, I am Shadman Afzal. ![](https://user-images.githubusercontent.com/1
 ### Socials
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/shadman-afzal">
+  <a href="https://www.linkedin.com/in/shadman-afzal" target="_blank">
     <img
       src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg"
       width="52"
@@ -189,7 +189,7 @@ Hello there, I am Shadman Afzal. ![](https://user-images.githubusercontent.com/1
       alt="linkedin logo"
     />
   </a>
-  <a href="mailto:shadman.afzal.7@gmail.com">
+  <a href="mailto:shadman.afzal.7@gmail.com" target="_blank">
     <img
       src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg"
       width="52"
@@ -197,7 +197,7 @@ Hello there, I am Shadman Afzal. ![](https://user-images.githubusercontent.com/1
       alt="gmail logo"
     />
   </a>
-  <a href="https://x.com/JustinKhan123">
+  <a href="https://x.com/JustinKhan123" target="_blank">
     <img
       src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg"
       width="52"
