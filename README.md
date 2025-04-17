@@ -5,7 +5,7 @@ Hello there, I am Shadman Afzal. ![](https://user-images.githubusercontent.com/1
 - 🔭 I’m currently working on AWS.
 - 🌱 I’m currently learning Kubernetes.
 - 💬 Ask me anything related to React, Node, or AWS.
-- 📫 How to reach me:  Twitter: [@JustinKhan123](https://twitter.com/JustinKhan123) Linkedin: [@shadman-nawab](https://www.linkedin.com/in/shadman-afzal/)
+- 📫 How to reach me:  Twitter: [@shadman_nawab](https://twitter.com/shadman_nawab) Linkedin: [@shadman-afzal](https://www.linkedin.com/in/shadman-afzal/)
 - ⚡ Fun fact: NaN (Not a number) is also a valid number in JavaScript!
 
 ### 💻 Tech Stack
